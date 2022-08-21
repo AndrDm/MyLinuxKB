@@ -3,6 +3,7 @@
 // 2001/12/23 by Leon Kanter <leon@blackcatlinux.com>
 // 2005/12/09 Valery Inozemtsev <shrek@altlinux.ru>
 // 2018/07/15 @a13 (a.k.a. @dbvvmpg) and Stepanenko Andrey <ftvkyo2011@yandex.ru>
+// 2022/05/27 Andrey - sync with German Keyboard
 
 // Windows layout
 default partial alphanumeric_keys
